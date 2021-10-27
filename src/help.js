@@ -14,6 +14,8 @@ export async function help(){
 
     var noteCommand3 = "Note: [-l shows all the files in the notes/ folder]"
 
+    var SetupCommand = "Note [-s set's up the program creates all the requires files]"
+
     
 
 
@@ -32,5 +34,6 @@ export async function help(){
     console.log("")
     console.log(chalk.bold.blue(noteCommand3))
     console.log("")
+    console.log(chalk.bold.blue(setupCommand))
 
 }
