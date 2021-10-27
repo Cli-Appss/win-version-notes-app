@@ -34,6 +34,6 @@ export async function help(){
     console.log("")
     console.log(chalk.bold.blue(noteCommand3))
     console.log("")
-    console.log(chalk.bold.blue(setupCommand))
+    console.log(chalk.bold.blue(SetupCommand))
 
 }
