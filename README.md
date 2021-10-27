@@ -1,4 +1,8 @@
 # The Notes taking Pkg for windows
 
-### Tried of taking notes via sticky notes?
+### Tried of taking notes via sticky notes and other platforms?
+
 Introducing the notes app For windows users start taking notes from your terminal!
+
+
+This p
