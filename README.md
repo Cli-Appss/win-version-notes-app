@@ -1,1 +1,1 @@
-# The Notes talking Pkg for windows
+# The Notes taking Pkg for windows
