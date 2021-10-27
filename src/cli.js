@@ -2,6 +2,7 @@ import minimist  from "minimist";
 import { help  } from './help.js';
 import { version } from './version.js';
 import { testSpawn } from './test-spawn.js';
+import { setup } from './setup.js';
 
 export async function cli(argsArray) {
     const args = minimist(argsArray.slice(2));
@@ -20,6 +21,10 @@ export async function cli(argsArray) {
     cmd = 'testSpawn'
   }
 
+  if (agrs.setup || args.s){
+    cmd = 'setup'
+  }
+
  
 
   switch (cmd) {
@@ -33,6 +38,10 @@ export async function cli(argsArray) {
 
     case 'testSpawn':
       testSpawn(args);
+      break;
+
+    case 'setup':
+      setup(args);
       break;
 
     
