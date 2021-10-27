@@ -1,0 +1,20 @@
+{
+  "name": "notes-app-win-pkg",
+  "version": "1.0.0",
+  "description": "a simple package fr notes taking via terminal=",
+  "main": "index.js",
+  "bin": {
+  "notes": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "udhay-r",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "esm": "^3.2.25",
+    "g": "^2.0.1",
+    "minimist": "^1.2.5"
+  }
+}
