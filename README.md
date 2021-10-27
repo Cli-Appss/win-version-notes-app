@@ -5,4 +5,4 @@
 Introducing the notes app For windows users start taking notes from your terminal!
 
 
-This p
+This package is still underdev.
