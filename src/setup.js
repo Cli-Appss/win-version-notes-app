@@ -1,8 +1,10 @@
 var exec = require('child_process').exec;
 
 export async function setup (){
+    console.log('')
     console.log('Setting up the files... For the notes app')
-    exec('my.bat',
+    console.log('')
+    exec('mkdir notes',
     (error, stdout, stderr) => {
         console.log(stdout);
         console.log(stderr);
