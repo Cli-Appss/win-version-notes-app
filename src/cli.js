@@ -43,6 +43,10 @@ export async function cli(argsArray) {
     case 'setup':
       setup(args);
       break;
+    
+    case 'add':
+      add(args);
+      break;
 
     
   
