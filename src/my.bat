@@ -1,2 +1,1 @@
-mkdir notes
-cd notes
+cd ./notes
