@@ -1,0 +1,2 @@
+mkdir notes
+cd notes
