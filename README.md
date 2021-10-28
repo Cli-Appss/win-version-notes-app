@@ -5,6 +5,9 @@
 Introducing the notes app For windows users start taking notes from your terminal!
 
 
+![image](https://user-images.githubusercontent.com/57910021/139191210-b5b5f7e6-a438-4ae2-9063-0700084b6213.png)
+
+
 Usage:
 
 ```
