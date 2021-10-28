@@ -23,4 +23,15 @@ Note [-s/setup set's up the program creates all the requires files]
 
 ```
 
+### Quick start development
+
+[install the package from](https://www.npmjs.com/package/notes-app-win-pkg)
+
+or with this Command
+`npm i notes-app-win-pkg -g`
+
+
+
+
+
 We will soon update this package.

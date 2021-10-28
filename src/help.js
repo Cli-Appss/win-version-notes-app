@@ -10,7 +10,7 @@ export async function help(){
 
     var noteCommand1 = "Note: [-v]/version Shows version of the of the app";
 
-    var noteCommand2 = "Note: [add]/-a adds a new note automatically opens note_pad for editing Other parameters: [notes -add <text-editor>]";
+    var noteCommand2 = "Note: [add]/-a adds a new note automatically opens note_pad for editing Other parameters: // FOR Users with nano editor[notes -add <text-editor>]";
 
     var noteCommand3 = "Note: [-l/list shows all the files in the notes/ folder]"
 
