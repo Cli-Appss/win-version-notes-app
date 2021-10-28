@@ -25,6 +25,10 @@ export async function cli(argsArray) {
   if (args.setup || args.s){
     cmd = 'setup'
   }
+  
+  if(args.add || args.a){
+    cmd = 'add'
+  }
 
  
 
