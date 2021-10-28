@@ -19,3 +19,5 @@ Note: [-l/list shows all the files in the notes/ folder]
 Note [-s/setup set's up the program creates all the requires files]
 
 ```
+
+We will soon update this package.
