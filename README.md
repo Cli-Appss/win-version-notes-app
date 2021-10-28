@@ -28,7 +28,7 @@ Note [-s/setup set's up the program creates all the requires files]
 [install the package from](https://www.npmjs.com/package/notes-app-win-pkg)
 
 or with this Command
-`npm i notes-app-win-pkg -g`
+`npm i notes-app-win-pkg -g` (installs the pkg globally)
 
 
 
