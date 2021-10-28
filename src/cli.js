@@ -3,6 +3,7 @@ import { help  } from './help.js';
 import { version } from './version.js';
 import { testSpawn } from './test-spawn.js';
 import { setup } from './setup.js';
+import { add } from './add.js'
 
 export async function cli(argsArray) {
     const args = minimist(argsArray.slice(2));
